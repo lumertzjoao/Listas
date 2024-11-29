@@ -19,6 +19,7 @@
 /dist/
 /lib/
 /obj/
+/arq/
 
 # Arquivos de log
 *.log
